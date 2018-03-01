@@ -1,0 +1,10 @@
+Light blue - temperature sensor
+Green - small aracade joystick
+purple and red - buttons.
+Yellow - pulse sesnor
+
+	The controller is bult for a game where players have to fly an 
+object through different zones. The zones change based on temperature and humidity.
+The buttons are used toshoot and eevade through obstacles that  may pop up. The sesnor
+is used to detect incoming objects from further. I envisioned a top down game similar to 
+galaga.
